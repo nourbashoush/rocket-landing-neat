@@ -1,6 +1,6 @@
 # NEAT Application for Rocket Landing Game
 
-This README provides a detailed overview of the NEAT algorithm implementation used play the game. The goal here is to develop a neural network capable of controlling a rocket to land smoothly on a target, akin to SpaceX rockets. However, the best results achieved resembled missiles going directly to the target rather than the intended controlled landing.
+This README provides a detailed overview of the NEAT algorithm implementation used to play the game. The goal here is to develop a neural network capable of controlling a rocket to land smoothly on a target, akin to SpaceX rockets. However, the best results achieved resembled missiles going directly to the target rather than the intended controlled landing.
 
 ### Overview
 
@@ -98,7 +98,7 @@ To better understand the performance of the NEAT algorithm over time, the follow
 
 ![Performance Up to Generation 1000](images/best-genome-1000-GENs.png)
 
-3. **Final Neural Network Diagram:**
+2. **Final Neural Network Diagram:**
 
 ![Final Neural Network Diagram](images/best-genome-NN.png)
 

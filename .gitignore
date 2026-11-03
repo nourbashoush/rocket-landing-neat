@@ -5,3 +5,7 @@ images/*.psd
 
 .DS_Store
 .vscode
+# Written by a training run
+/best-genome.pkl
+/early_stop_winner.pkl
+/avg_fitness.png
