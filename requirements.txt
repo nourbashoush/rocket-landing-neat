@@ -1,0 +1,4 @@
+pygame-ce
+neat-python==0.92
+matplotlib
+networkx
